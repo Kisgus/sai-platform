@@ -1,0 +1,23 @@
+{
+  "name": "sai-engineering",
+  "private": true,
+  "type": "module",
+  "description": "SAI agentic consulting engineering monorepo",
+  "scripts": {
+    "build": "pnpm -r build",
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "engines": {
+    "node": ">=22.0.0",
+    "pnpm": ">=10.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^25.6.0",
+    "eslint": "^10.2.0",
+    "typescript": "^6.0.2",
+    "typescript-eslint": "^8.58.1"
+  }
+}
