@@ -22,6 +22,13 @@ agent work. Production client implementation details live elsewhere.
 - Lightweight templates that can become client-specific systems without
   starting from a blank folder.
 
+## Why It Matters
+
+For the public Gus/Kisgus profile, this repo is the technical counterpart to the
+SAIBA narrative. It shows the working style behind the thesis: small services,
+narrow tool boundaries, explicit evals, and reusable agent scaffolds instead of
+one-off prompt experiments.
+
 ## Repository Map
 
 | Path | Purpose |
